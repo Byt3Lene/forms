@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: gray;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+form {
+    background: #1a1a1a;
+    padding: 20px 40px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    color: white;
+    }
+       
+label {
+    display: block;
+    text-align: left;
+    margin: 10px 0 5px;
+    }
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background: #e6e6e6;
+    }
+
+button {
+    background: #ff0055;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+    }
